@@ -1,6 +1,6 @@
 # Notes CLI
 
-A small interactive notes manager written in Rust. Each note has a title and multiline content, and notes are stored locally as JSON.
+A small interactive notes manager written in Rust language. Each note has a title and multiline content, and notes are stored locally as JSON.
 
 ## Features
 
